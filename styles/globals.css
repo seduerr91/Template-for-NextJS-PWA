@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --amplify-primary-color: #123456;
+    --amplify-primary-tint: #5782d8;
+    --amplify-primary-shade: #b3c6c9;
+}

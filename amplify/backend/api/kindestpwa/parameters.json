@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "kindestpwa",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authkindestpwa5f44e225",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2022-09-16T17:45:54.242Z"
+}

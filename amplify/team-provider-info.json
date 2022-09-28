@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kindestpwa-dev-85502-authRole",
+      "UnauthRoleArn": "arn:aws:iam::439247036349:role/amplify-kindestpwa-dev-85502-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::439247036349:role/amplify-kindestpwa-dev-85502-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-kindestpwa-dev-85502-deployment",
+      "UnauthRoleName": "amplify-kindestpwa-dev-85502-unauthRole",
+      "StackName": "amplify-kindestpwa-dev-85502",
+      "StackId": "arn:aws:cloudformation:eu-west-1:439247036349:stack/amplify-kindestpwa-dev-85502/eefb97e0-35d7-11ed-b7ad-0275c73a7fb7",
+      "AmplifyAppId": "d3mec0lwrz8map"
+    },
+    "categories": {
+      "auth": {
+        "kindestpwa5f44e225": {}
+      }
+    }
+  }
+}
